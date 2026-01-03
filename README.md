@@ -1,6 +1,7 @@
 # 👨‍💻 Felipe Alves
 
 **`Iniciante em Análise de Dados | SQL & Power BI`**
+** LinkedIn: https://www.linkedin.com/in/felipe-alves-69b8b6353 **
 
 
 👋 Olá! Me chamo Felipe Alves
