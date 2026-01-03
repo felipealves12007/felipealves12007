@@ -9,8 +9,6 @@ Tenho 18 anos, sou de São Paulo e atualmente curso Administração pela UNIP. E
 Este GitHub é meu espaço para documentar minha evolução, compartilhar projetos práticos, estudos e experimentos ao longo do aprendizado. Aqui você encontrará desde meus primeiros projetos até análises mais completas, sempre valorizando o processo e a evolução contínua.
 Estou no começo da área, com foco em aprendizado constante, prática e melhoria a cada novo projeto 🚀
 
-**`LinkedIn: https://www.linkedin.com/in/felipe-alves-69b8b6353`**
-
 
 <p align="left">
     <a href="https://github.com/felipealves12007?tab=repositories&sort=stargazers">
@@ -27,6 +25,13 @@ Estou no começo da área, com foco em aprendizado constante, prática e melhori
             src="https://custom-icon-badges.demolab.com/github/followers/felipealves12007?labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+    <a href="https://www.linkedin.com/in/felipe-alves-69b8b6353" target="_blank">
+  <img 
+    src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
+
 </p>
 
 ---
