@@ -5,7 +5,7 @@
 
 👋 Olá! Me chamo Felipe Alves
 
-Tenho 18 anos, sou de São Paulo e atualmente curso Administração pela UNIP. Estou iniciando minha jornada na área de Análise de Dados, com foco em SQL e Power BI, explorando como dados podem gerar insights e apoiar a tomada de decisões de negócio.
+Tenho 19 anos, sou de São Paulo e atualmente curso Administração pela UNIP. Estou iniciando minha jornada na área de Análise de Dados, com foco em SQL e Power BI, explorando como dados podem gerar insights e apoiar a tomada de decisões de negócio.
 Este GitHub é meu espaço para documentar minha evolução, compartilhar projetos práticos, estudos e experimentos ao longo do aprendizado. Aqui você encontrará desde meus primeiros projetos até análises mais completas, sempre valorizando o processo e a evolução contínua.
 Estou no começo da área, com foco em aprendizado constante, prática e melhoria a cada novo projeto 🚀
 
